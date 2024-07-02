@@ -1,0 +1,1 @@
+Yes, this would result in an error (list index out of range), because lists start their index at 0, meaning that the last index in a list is the length of the string minus 1. When you use an index value with no corresponding element, python raises an IndexError error.
