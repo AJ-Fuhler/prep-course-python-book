@@ -8,3 +8,4 @@ name_country = {
 }
 
 print(name_country['Alice'])
+
